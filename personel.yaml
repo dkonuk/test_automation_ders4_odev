@@ -1,0 +1,13 @@
+
+
+kayıt_turu: personel
+isim: Deniz Konuk
+yas: 40
+adres:
+  sokak: 69 sokak
+  ilce: Çankaya
+  sehir: Ankara
+  posta_kodu: 06490
+e_posta: dkonuk@ornek.com
+departman: Bilgi İslem
+pozisyon: Veri Analisti

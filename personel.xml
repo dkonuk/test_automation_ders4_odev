@@ -1,0 +1,15 @@
+
+
+<personel>
+    <isim>Deniz Konuk</isim>
+    <yas>40</yas>
+    <adres>
+        <sokak>69 sokak</sokak>
+        <ilce>Cankaya</ilce>
+        <sehir>Ankara</sehir>
+        <posta kodu>06490</posta>
+    </adres>
+    <e-posta>dkonuk@ornek.com</e-posta>
+    <departman>Bilgi İslem</departman>
+    <pozisyon>Veri analisti</pozisyon>
+</personel>
